@@ -47,6 +47,7 @@ python3 hidden_node_discovery_bandit.py $net $label $train $init $batch $budget 
   * lr_deep:Logistic Regression with DeepGL features
   * degree: MOD heuristic
   * nei: TN heuristic
+
 When you specify multiple algorithms, the bandit algorithm is used for combining multiple strategies.
 Please see our paper for more detailed explanation about the parameters.
 
