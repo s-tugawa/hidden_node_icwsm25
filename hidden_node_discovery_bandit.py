@@ -20,6 +20,7 @@ import dgl
 import graph_tool.all as gt
 
 from deepgl import DeepGL
+# This function is based on code from https://github.com/takanori-fujiwara/deepgl
 
 
 
