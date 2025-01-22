@@ -1,0 +1,5 @@
+[settings]
+base_feat=['total_degree','target','target_nei','target_tri','non_target_tri','target_frac','tri','target_tri_frac','non_target_tri_frac','two_hop_target']
+ego_dist=2
+nbr_type=['all']
+lambda=0.7
